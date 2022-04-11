@@ -4,7 +4,7 @@
 ### The Segmentation:
 
 <!---![showcase gif](https://github.com/NiRuff/GithubMedia/blob/main/VineSeg_Seg_1(1).gif)--->
-<p align="center"><img src="https://github.com/NiRuff/GithubMedia/blob/main/VineSeg_Seg_1(1).gif "  width="85%"></p>
+<p align="center"><img src="https://github.com/NiRuff/GithubMedia/blob/main/VineSeg_Seg_1(2).gif "  width="85%"></p>
 
 
-<img src="https://github.com/NiRuff/GithubMedia/blob/main/VineSeg_Seg_1(1).gif" width="60%"  />
+<img src="https://github.com/NiRuff/GithubMedia/blob/main/VineSeg_Seg_2.gif" width="60%"  />
