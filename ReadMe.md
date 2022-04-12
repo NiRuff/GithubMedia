@@ -11,3 +11,6 @@
 
 ### The Trace Extraction and CASCADE SPIKE Inference:
 <p align="center"><img src="https://github.com/NiRuff/GithubMedia/blob/main/VineSeg2_.gif" width="85%"  />
+
+### The Microscope Mode:
+<p align="center"><img src="https://github.com/NiRuff/GithubMedia/blob/main/ViNeSeg-3.gif" width="85%"  />
