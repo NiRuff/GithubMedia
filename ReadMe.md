@@ -3,6 +3,9 @@
 
 ### The Autosegmentation:
 
+<!---![showcase gif](https://github.com/NiRuff/GithubMedia/blob/main/ViNeSeg_Installation.gif)--->
+<p align="center"><img src="https://github.com/NiRuff/GithubMedia/blob/main/ViNeSeg_Installation.gif "  width="85%"></p>
+
 <!---![showcase gif](https://github.com/NiRuff/GithubMedia/blob/main/VineSeg_Seg_1(1).gif)--->
 <p align="center"><img src="https://github.com/NiRuff/GithubMedia/blob/main/VineSeg_Seg_1(2).gif "  width="85%"></p>
 
